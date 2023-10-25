@@ -35,7 +35,7 @@
 
 [twitter]: https://twitter.com/abdo_bzaiz
 [youtube]: https://www.youtube.com/channel/UCp88ViqoMyiurEwmhCZ29WQ
-[instagram]: https://www.instagram.com
+[instagram]: https://www.instagram.com/abd0bz/
 [linkedin]: https://www.linkedin.com/in/abdobz/
 
 <!--
