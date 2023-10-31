@@ -1,6 +1,9 @@
 <h3 align="center">A Passionate DevOps 🚀 developer from Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdobzx" alt="abdobzx" /></a> </p>
+
+
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=abdobzx" alt="abdobzx" /></a> </p>
+
 - 💬 Ask me about **Docker, Kubernetes, AWS**
 
 - ⚡ Fun fact **I love coffee.**
