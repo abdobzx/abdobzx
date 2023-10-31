@@ -2,7 +2,7 @@
 
 
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=abdobzx&column=-1&theme=dark_lover" alt="abdobzx" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=abdobzx&column=-2&theme=dark_lover" alt="abdobzx" /></a> </p>
 
 - 💬 Ask me about **Docker, Kubernetes, AWS**
 
