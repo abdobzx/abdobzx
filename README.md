@@ -9,7 +9,7 @@
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=abdobzx&column=-1&theme=dark_lover" alt="abdobzx" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="left" style="display: flex; gap: 10px;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -43,7 +43,8 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
-</p>
+</div>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdobzx&show_icons=true&theme=radical&locale=en" alt="abdobzx" /></p>
 
