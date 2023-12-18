@@ -79,7 +79,7 @@
   <!-- Add other PowerShell projects similarly -->
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/abdobzx/EncrypterPOC)
   <!-- Add other C# projects similarly -->
 
 - <b>Python</b>
