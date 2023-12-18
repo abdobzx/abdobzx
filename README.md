@@ -74,7 +74,7 @@
   - [Image Analysis Middleware](https://github.com/abdobzx/Tourisme-application) <b><i>(Potentially NSFW)</b></i>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/abdobzx/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/abdobzx/Jwipe.PowerShell)
   <!-- Add other PowerShell projects similarly -->
 
