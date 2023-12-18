@@ -83,7 +83,7 @@
   <!-- Add other C# projects similarly -->
 
 - <b>Python</b>
-  - [Package Delivery Application (Data Structures and Algorithms Demo)]((https://github.com/abdobzx/Package-Delivery-Pathfinding-Algorithm))
+  - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/abdobzx/Package-Delivery-Pathfinding-Algorithm)
 
 <h3 align="center">Connect with me:</h3>
 
