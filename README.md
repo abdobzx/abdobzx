@@ -91,7 +91,7 @@
   <a href="https://linkedin.com/in/abdobz" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdobz" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/abderr-hman-bzaiz" target="_blank">
+  <a href="https://stackoverflow.com/users/19943900/abderr-hman-bzaiz" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abderr-hman-bzaiz" height="30" width="40" />
   </a>
 </p>
