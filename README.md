@@ -71,7 +71,7 @@
   - [Practicing DS & Algos in Python](https://github.com/abdobzx/Algorithms)
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/abdobzx/Marhaba-Mobile-App) <b><i>(Potentially NSFW)</b></i>
+  - [MARHABA](https://github.com/abdobzx/Marhaba-Mobile-App)
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/abdobzx/Sentinel-Lab)
