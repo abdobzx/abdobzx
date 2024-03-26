@@ -70,7 +70,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Practicing DS & Algos in Python](https://github.com/abdobzx/Algorithms)
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Full Stack mobile app(React, NodeJS )</b>
   - [MARHABA](https://github.com/abdobzx/Marhaba-Mobile-App)
 
 - <b>PowerShell</b>
